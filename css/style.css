@@ -1,3 +1,6 @@
+html{
+  color: #e1e8eb;
+}
 .container{
   border: 5px solid #ffc107;
   height: 550px;
@@ -6,4 +9,7 @@
   margin-top: 10%;
   background-color: #7952b3;
   /* color: #7952b3; */
+}
+p{
+  font-size: larger;
 }
