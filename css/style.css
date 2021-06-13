@@ -33,3 +33,12 @@ input{
   margin-left: 38%;
   border-radius: 10%;
 }
+.result{
+  margin-left: 43%;
+}
+
+#results{
+  width: 60%;
+  margin-left: 17%;
+  margin-top: 0%;
+}
