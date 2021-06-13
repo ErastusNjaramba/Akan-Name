@@ -2,7 +2,7 @@ html{
   color: #e1e8eb;
 }
 .container{
-  border: 5px solid #ffc107;
+  border: 5px solid #343a40;
   height: 550px;
   width: 600px;
   margin-left: 30%;
@@ -13,10 +13,23 @@ html{
 p{
   font-size: larger;
 }
+h2, h3{
+  color: #ffc107;
+}
 
 input{
   margin-left: 1%;
 }
 .gender{
   margin-left: 40%;
+}
+.button{
+  width: 20%;
+  background-color: #343434;
+  color: #ffc107;
+  font-size: 20px;
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: 38%;
+  border-radius: 10%;
 }
