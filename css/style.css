@@ -13,3 +13,7 @@ html{
 p{
   font-size: larger;
 }
+
+input{
+  margin-left: 1%;
+}
