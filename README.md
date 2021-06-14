@@ -17,7 +17,7 @@ No known bugs yet
 * CSS
 * JAVASCRIPT
 ## Link to live site on github pages
-[Github](https://erastusnjaramba.github.io/Akan-Name/)
+[Github](https://erastusnjaramba.github.io/Akan-Name/) 
 
 ## Support and contact details
 If you want toccontact me, email me on erastus11njaramba@gmail.com
